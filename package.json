@@ -1,0 +1,30 @@
+{
+  "name": "url-shortening-service",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Liku-beep-boop/URL-shortening-service#readme",
+  "bugs": {
+    "url": "https://github.com/Liku-beep-boop/URL-shortening-service/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Liku-beep-boop/URL-shortening-service.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "sequelize": "^6.37.7",
+    "shortid": "^2.2.17",
+    "sqlite3": "^5.1.7",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1"
+  }
+}
