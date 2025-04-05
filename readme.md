@@ -1,16 +1,16 @@
 ```markdown
-# 🔗 URL Shortening Service
+#  URL Shortening Service
 
 A simple and lightweight URL shortening API built with **Node.js**, **Express**, and **SQLite**. The API is documented using **Swagger**.
 
-## 🚀 Features
+##  Features
 
 - Shorten long URLs into short codes
 - Redirect short codes to the original URL
 - Track the number of clicks
 - API documentation with Swagger (OpenAPI 3)
 
-## 📦 Tech Stack
+##  Tech Stack
 
 - Node.js
 - Express
@@ -18,7 +18,7 @@ A simple and lightweight URL shortening API built with **Node.js**, **Express**,
 - Swagger UI for API docs
 - shortid for generating unique codes
 
-## 📚 API Documentation
+##  API Documentation
 
 The API is fully documented and available at:
 
@@ -85,7 +85,7 @@ Redirects to the original URL.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 .
@@ -95,7 +95,7 @@ Redirects to the original URL.
 └── ...
 ```
 
-## 🧪 Example cURL Usage
+## Example cURL Usage
 
 ```bash
 curl -X POST http://localhost:3000/shorten \
@@ -103,7 +103,7 @@ curl -X POST http://localhost:3000/shorten \
   -d '{"original_url":"https://example.com"}'
 ```
 
-## 📄 License
+## License
 
 MIT
 
