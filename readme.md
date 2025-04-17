@@ -12,7 +12,7 @@ A simple and lightweight URL shortening API built with **Node.js**, **Express**,
 
 ##  Tech Stack
 
-- Node.js
+- **Node.js**
 - Express
 - SQLite (via Sequelize ORM)
 - Swagger UI for API docs
