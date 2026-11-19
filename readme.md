@@ -1,4 +1,3 @@
-```markdown
 #  URL Shortening Service
 
 A simple and lightweight URL shortening API built with **Node.js**, **Express**, and **SQLite**. The API is documented using **Swagger**.
@@ -110,4 +109,3 @@ MIT
 ---
 
 Built with ❤️ by [Liku-beep-boop](https://github.com/Liku-beep-boop)
-```
